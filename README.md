@@ -10,4 +10,7 @@ npm install
 
 # Serve on localhost:5000
 npm start
+
+#to use nodemon
+npm run dev
 ```
